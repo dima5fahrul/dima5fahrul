@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dima5fahrul
-- 👀 I’m interested in Local Network Engineer & Web Developing
-- 🌱 I’m currently learning Java Script
+- 👋 Hi, I’m Dimas Fahrul
+- 👀 I’m interested in Web & Mobile Development
+- 🌱 I’m currently learning Mobile Programming
 - 💞️ I’m looking to collaborate on Backend Developer
 
 <!---
