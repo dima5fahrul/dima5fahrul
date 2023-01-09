@@ -17,7 +17,7 @@ Additional and tools
 I'm always open to chatting about my specialty and learning new things. If you want to chat with me, connect with me on:
 
 [![Gmail Badge](https://img.shields.io/badge/-dfahrul07@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dfahrul07@gmail.com)](mailto:dfahrul07@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Ahmad_Musafir_Khoirul_Fattah-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-musafir-khoirul-fattah-26a53a207/)](https://www.linkedin.com/in/masmuss/)
+[![Linkedin Badge](https://img.shields.io/badge/-Dimas Fahrul-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dimasfahrul/)](https://www.linkedin.com/in/dimasfahrul/)
 
 Find my repository:
 
