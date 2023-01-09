@@ -1,9 +1,28 @@
-- 👋 Hi, I’m Dimas Fahrul
-- 👀 I’m interested in Web & Mobile Development
-- 🌱 I’m currently learning Mobile Programming
-- 💞️ I’m looking to collaborate on Backend Developer
+## _:wave: Hello, everyone who viewed my profile!_
 
-<!---
-dima5fahrul/dima5fahrul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an active student with great interest in Web & Mobile Development. I studied at the Electronics Engineering Polytechnic Institute of Surabaya (EEPIS). With a concentration in Informatics Engineering, I regularly improve my programming during college so that later it can provide great benefits in the professional world. :sparkles::fire:
+
+My specialties include
+
+[![Specialties](https://skillicons.dev/icons?i=php,vue,bootstrap,css,mongodb,nodejs,c,java)](https://skillicons.dev)
+
+I'm currently learning
+
+[![Learning](https://skillicons.dev/icons?i=flutter,react,tailwind,dart,javascript)](https://skillicons.dev)
+
+Additional and tools
+
+[![Additional](https://skillicons.dev/icons?i=bash,vscode,vite,webpack,vercel,git,github,gitlab)](https://skillicons.dev)
+
+I'm always open to chatting about my specialty and learning new things. If you want to chat with me, connect with me on:
+
+[![Gmail Badge](https://img.shields.io/badge/-dfahrul07@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dfahrul07@gmail.com)](mailto:dfahrul07@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ahmad_Musafir_Khoirul_Fattah-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ahmad-musafir-khoirul-fattah-26a53a207/)](https://www.linkedin.com/in/masmuss/)
+
+Find my repository:
+
+[![Github Badge](https://img.shields.io/badge/-dima5fahrul-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dima5fahrul)](https://github.com/dima5fahrul)
+
+[![Dimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dima5fahrul&show_icons=true&include_all_commits=true&theme=transparent&layout=compact)](https://github.com/dima5fahrul/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dima5fahrul&theme=transparent&layout=compact)](https://github.com/dima5fahrul/github-readme-stats)
