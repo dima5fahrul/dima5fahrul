@@ -8,7 +8,7 @@ My specialties include
 
 I'm currently learning
 
-[![Learning](https://skillicons.dev/icons?i=react,tailwind,javascript)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=react,tailwind,javascript,kotlin)](https://skillicons.dev)
 
 Additional and tools
 
