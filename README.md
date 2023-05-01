@@ -4,11 +4,11 @@ I am an active student with great interest in IT knowledge studying at the Elect
 
 My specialties include
 
-[![Specialties](https://skillicons.dev/icons?i=php,vue,bootstrap,css,mongodb,nodejs,c,java)](https://skillicons.dev)
+[![Specialties](https://skillicons.dev/icons?i=flutter,dart,php,vue,bootstrap,css,mongodb,nodejs,c,java)](https://skillicons.dev)
 
 I'm currently learning
 
-[![Learning](https://skillicons.dev/icons?i=flutter,react,tailwind,dart,javascript)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=react,tailwind,javascript)](https://skillicons.dev)
 
 Additional and tools
 
