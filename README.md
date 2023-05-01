@@ -1,4 +1,4 @@
-## _:wave: Hello, everyone who viewed my profile!_
+## _:wave: Hello, whoever is looking at my profile!_
 
 I am an active student with great interest in IT knowledge studying at the Electronics Engineering Polytechnic Institute of Surabaya (EEPIS). With a concentration in Informatics Engineering, I regularly improve my programming during college so that it can provide great benefits later in the professional world. :sparkles::fire:
 
